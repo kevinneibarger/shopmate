@@ -3,7 +3,7 @@ import "./ProductCard.css";
 
 export const ProductCard = ({product}) => {
 
-    const {id, name, price, image} = product;
+    const {name, price, image} = product;
 
     return (
         <div className="productCard">

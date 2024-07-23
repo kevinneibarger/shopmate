@@ -1,5 +1,5 @@
 import {Routes, Route} from "react-router-dom";
-import {Home, Cart, ShopmateHome, ShopmateCart} from "../pages";
+import {ShopmateHome, ShopmateCart} from "../pages";
 
 
 export const AllRoutes = () => {
